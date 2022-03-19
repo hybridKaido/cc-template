@@ -1,5 +1,5 @@
-# tcc-template
-Template for c programming on the go!(using tcc)
+# cc-template
+Template for c programming on the go!(using cc)
 
 
 ##Instructions
